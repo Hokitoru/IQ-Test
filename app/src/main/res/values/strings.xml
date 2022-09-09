@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IQ Test</string>
+    <string name="logo_text">IQ Test</string>
+    <string name="user_help">Press Start</string>
+    <string name="next">Next</string>
+    <string name="question1">Что бы ты собрал на Некрофосе?</string>
+    <string name="question2">Дасты или сентри?</string>
+    <string name="question3">JS топ?</string>
+    <string name="question4">Можно написать курсач на вебе?</string>
+    <string name="result1">10000к ммр</string>
+    <string name="result2">7000к ммр</string>
+    <string name="result3">3000к ммр</string>
+    <string name="result4">Ясно рекрут</string>
+    <string name="answer1_1">BM</string>
+    <string name="answer1_2">Линзу</string>
+    <string name="answer2_1">Дасты</string>
+    <string name="answer2_2">Сентри</string>
+    <string name="answer3_1">Топ</string>
+    <string name="answer3_2">Нет(Извинись)</string>
+    <string name="answer4_1">Да</string>
+    <string name="answer4_2">Нет</string>
+
+</resources>
